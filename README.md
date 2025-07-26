@@ -1,3 +1,5 @@
+Edusity is a responsive educational platform built with ReactJS and Vite, providing a dynamic and user-friendly experience for students and educators. The platform offers a variety of courses, and comprehensive student testimonials
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
